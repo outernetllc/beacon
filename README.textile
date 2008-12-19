@@ -7,3 +7,12 @@ This production-ready realtime messaging server software will allow you to PUSH 
 * And anything else you can think of.
  
 Beacon was built by "Outernet":http://www.outernet.io/ and they are also offering premium services built around this wonderful open source application at the "Beacon":http://www.beacon.io/ Web site. There you'll find "demos":http://www.beacon.io/integration/demos, and plenty more information about Beacon.
+
+h2. Issues/Bugs
+
+Please submit all bug/annoyance reports to our Lighthouse app at
+* "http://outernet.lighthouseapp.com/projects/22160-beacon/":http://outernet.lighthouseapp.com/projects/22160-beacon/
+
+h2. Minor Issues/Questions/Comments
+
+Feel free to send any maintainer a Github message.
