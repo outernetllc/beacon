@@ -1,9 +1,9 @@
 h1. "Beacon Realtime Messaging Platform":http://github.com/mkeen/beacon/
-
+ 
 This production-ready realtime messaging server software will allow you to PUSH (reverse ajax, comet, etc) JSON formatted messages from your back-end Web applications and services directly to the front-end. This allows rich behaviors such as:
 * Real time notifications
 * Real time chat
 * Real time stock notifications
 * And anything else you can think of.
-
+ 
 Beacon was built by "Outernet":http://www.outernet.io/ and they are also offering premium services built around this wonderful open source application at the "Beacon":http://www.beacon.io/ Web site. There you'll find "demos":http://www.beacon.io/integration/demos, and plenty more information about Beacon.
